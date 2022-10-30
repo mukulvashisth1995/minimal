@@ -12,6 +12,6 @@ When the company receives a loan application, the company has to make a decision
 
 • If the applicant is not likely to repay the loan, i.e. he/she is likely to default, then approving the loan may lead to a financial loss for the company
 
-<center><img src="assests/img/Lending-Club.png"/></center>
+<center><img src="assets/img/Lending-Club.png"/></center>
 
 ---
