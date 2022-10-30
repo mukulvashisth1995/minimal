@@ -1,6 +1,6 @@
 title: Mukul Vashisth
 logo: /assets/img/gitpro.jpg
 description: Building up Github profile
-show_downloads: false
+show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
