@@ -1,6 +1,6 @@
 # Data Science Portfolio
 ---
-## Exploratory Data Analysis - Machine learning
+## Exploratory Data Analysis - Machine Learning
 
 ### Lending Club Case Study
 
